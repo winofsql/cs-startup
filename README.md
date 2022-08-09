@@ -130,7 +130,12 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/183588718-696f6329-f6f5-4fad-a9fa-e4e6f59f0c6b.png)
 
-
+### 以下を settings.json に追加
+```json
+    "code-runner.executorMap": {
+        "csharp": "dotnet run"
+    }
+```
 
 
 
