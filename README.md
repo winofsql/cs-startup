@@ -46,5 +46,33 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/183584747-68762fb5-3e10-44c4-b058-a23325721cc8.png)
 
+### launch.json
+```json
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/cs_form_01/bin/Debug/net6.0-windows/cs_form_01.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/cs_form_01",
+            "-console": "internalConsole",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
+```
 
 
