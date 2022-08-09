@@ -62,7 +62,7 @@
             "program": "${workspaceFolder}/cs_form_01/bin/Debug/net6.0-windows/cs_form_01.dll",
             "args": [],
             "cwd": "${workspaceFolder}/cs_form_01",
-            "-console": "internalConsole",
+            // "console": "internalConsole",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
