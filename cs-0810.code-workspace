@@ -1,0 +1,33 @@
+{
+    "folders": [
+        {
+            "path": "form_01"
+        },
+        {
+            "path": "form_02"
+        },
+        {
+            "path": "form_03"
+        }
+    ]
+    "settings": {
+        "-files.encoding": "shiftjis",
+        "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
+        "editor.mouseWheelZoom": true,
+        "editor.renderWhitespace": "all",
+        "editor.fontSize": 16,
+        "terminal.integrated.fontSize": 16,
+        "terminal.integrated.profiles.windows": {
+            "Command Prompt": {
+                "path": [
+                    "C:\\WINDOWS\\system32\\cmd.exe"
+                ],
+                "args": [],
+                "icon": "terminal-cmd"
+            }
+        },
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "files.autoSave": "afterDelay",
+        "workbench.startupEditor": "none"
+    }
+}
