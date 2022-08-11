@@ -33,11 +33,6 @@
 ### 拡張
 ![image](https://user-images.githubusercontent.com/1501327/183583332-de4df410-9f25-4eb8-8aec-6a62e2d75bef.png)
 
-
-![image](https://user-images.githubusercontent.com/1501327/183584622-a30b12cc-f6dd-46eb-82b5-709721d36857.png)
-
-![image](https://user-images.githubusercontent.com/1501327/183584747-68762fb5-3e10-44c4-b058-a23325721cc8.png)
-
 ### launch.json
 ```json
 {
