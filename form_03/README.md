@@ -45,9 +45,9 @@ public partial class Form1 : Form
 
     private void action_Click(object sender, EventArgs e)
     {
-        Debug.WriteLine("こんにちは世界");
+        Debug.WriteLine("DBG:こんにちは世界");
         string resultLine = Console.ReadLine() + "";
-        Debug.WriteLine(resultLine);
+        Debug.WriteLine($"DBG:{resultLine}");
     }
 }
 ```
