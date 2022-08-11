@@ -106,12 +106,6 @@
     ]
 }
 ```
-![image](https://user-images.githubusercontent.com/1501327/183586524-d3c0f756-256d-4f2e-af13-7271e785fc6a.png)
-
-![image](https://user-images.githubusercontent.com/1501327/183585718-1a499b8f-ffd0-4426-be96-0b0c08e32844.png)
-
-![image](https://user-images.githubusercontent.com/1501327/183585917-b504808c-bf6d-4150-a3f4-2a1304404808.png)
-
 
 
 
