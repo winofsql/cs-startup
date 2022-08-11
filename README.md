@@ -33,9 +33,6 @@
 ### 拡張
 ![image](https://user-images.githubusercontent.com/1501327/183583332-de4df410-9f25-4eb8-8aec-6a62e2d75bef.png)
 
-![image](https://user-images.githubusercontent.com/1501327/183583439-73e60dbb-e3d0-443d-9636-18db69dab756.png)
-
-![image](https://user-images.githubusercontent.com/1501327/183583549-22efe106-b287-411b-a95f-9cae7107f0f0.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/183584622-a30b12cc-f6dd-46eb-82b5-709721d36857.png)
 
