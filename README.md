@@ -20,6 +20,7 @@
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
+    "files.trimTrailingWhitespace": true,
     "workbench.startupEditor": "none"
 }
 ```
