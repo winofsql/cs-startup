@@ -9,7 +9,7 @@
         {
             "path": "form_03"
         }
-    ]
+    ],
     "settings": {
         "-files.encoding": "shiftjis",
         "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
