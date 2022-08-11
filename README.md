@@ -30,12 +30,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/183581334-1f7641c8-fdb8-433f-9729-7c6e094740e1.png)
 
-```
-dotnet new winforms -f net6.0
-```
-![image](https://user-images.githubusercontent.com/1501327/183581797-c097a6cc-a4e4-4675-b593-936e8770cb39.png)
 
-![image](https://user-images.githubusercontent.com/1501327/183582389-3e584a3c-63f2-4074-b9c8-d89c3e55877f.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/183582477-9a330924-cdde-4c42-aa8e-bcc0c822bc3c.png)
 
