@@ -53,3 +53,5 @@ public partial class Form1 : Form
 ```
 
 ![image](https://user-images.githubusercontent.com/1501327/184061125-611e0e6c-3d87-49bd-90fb-0de3fa3162d8.png)
+
+![image](https://user-images.githubusercontent.com/1501327/184062811-69cdb612-bf88-4028-894f-a02e55e17cbf.png)
