@@ -25,8 +25,6 @@
 }
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/183580326-0fb67b65-1ad0-463b-a087-0e74461cc320.png)
-
 [![image](https://user-images.githubusercontent.com/1501327/184050608-6b5c686f-324c-41cb-bd1d-4cd227003e58.png)](https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0)
 
 ![image](https://user-images.githubusercontent.com/1501327/183581334-1f7641c8-fdb8-433f-9729-7c6e094740e1.png)
