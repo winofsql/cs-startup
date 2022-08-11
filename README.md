@@ -32,7 +32,7 @@
 ```
 dotnet new winforms -f net6.0
 ```
-
+### Visual Studio 2022 があるなら最新に更新、なければ以下
 ![image](https://user-images.githubusercontent.com/1501327/183581797-c097a6cc-a4e4-4675-b593-936e8770cb39.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/183582389-3e584a3c-63f2-4074-b9c8-d89c3e55877f.png)
