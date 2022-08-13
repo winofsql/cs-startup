@@ -33,6 +33,14 @@
 ### 拡張
 ![image](https://user-images.githubusercontent.com/1501327/183583332-de4df410-9f25-4eb8-8aec-6a62e2d75bef.png)
 
+### 実行
+- setup.bat
+- run.bat
+- Form1.cs を選択して表示\
+    ![image](https://user-images.githubusercontent.com/1501327/184465924-057b000d-e524-4732-ae21-5abd5869f5b1.png)
+
+
+
 ### launch.json
 ```json
 {
