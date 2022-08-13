@@ -34,6 +34,8 @@
 ![image](https://user-images.githubusercontent.com/1501327/183583332-de4df410-9f25-4eb8-8aec-6a62e2d75bef.png)
 
 ### 実行
+- F1 > workbench.action.closeFolder で全て閉じる
+- form_01 フォルダをドラッグ&ドロップ
 - setup.bat
 - run.bat
 - Form1.cs を選択して表示( **Yes を選択** )\
