@@ -36,10 +36,8 @@
 ### 実行
 - setup.bat
 - run.bat
-- Form1.cs を選択して表示\
+- Form1.cs を選択して表示( **Yes を選択** )\
     ![image](https://user-images.githubusercontent.com/1501327/184465924-057b000d-e524-4732-ae21-5abd5869f5b1.png)
-
-
 
 ### launch.json
 ```json
