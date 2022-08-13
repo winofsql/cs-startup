@@ -113,8 +113,9 @@
 }
 ```
 
-### デバッグ実行
-![image](https://user-images.githubusercontent.com/1501327/184466200-0a403b1f-ff0b-4b63-af30-2e7cb5e99f33.png)
+### デバッグ
+- 左上、緑の右向き ▶ で実行
+![image](https://user-images.githubusercontent.com/1501327/184466220-c2a9d66a-4ffd-42a1-b67e-64c3f3d25668.png)
 
 
 
