@@ -59,11 +59,11 @@
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
-        {
+        /* {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
-        }
+        } */
     ]
 }
 ```
