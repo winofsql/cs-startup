@@ -21,7 +21,10 @@
     "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
     "files.trimTrailingWhitespace": true,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    }
 }
 ```
 ### Visual Studio 2022 があるなら最新に更新、なければ以下
