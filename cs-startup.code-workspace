@@ -32,6 +32,7 @@
         "workbench.startupEditor": "none",
         "[csharp]": {
             "editor.defaultFormatter": "ms-dotnettools.csharp"
-        }
+        },
+        "security.workspace.trust.enabled": false
     }
 }
