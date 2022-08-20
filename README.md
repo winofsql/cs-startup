@@ -24,7 +24,8 @@
     "workbench.startupEditor": "none",
     "[csharp]": {
         "editor.defaultFormatter": "ms-dotnettools.csharp"
-    }
+    },
+    "security.workspace.trust.enabled": false    
 }
 ```
 ### Visual Studio 2022 があるなら最新に更新、なければ以下
