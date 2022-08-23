@@ -1,7 +1,7 @@
 ```txt
 新しいターミナル
 dotnet new winforms -f net6.0
-run.bat( dotnet run )
+dotnet run
 ```
 
 ```cs
