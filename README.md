@@ -25,7 +25,17 @@
     "[csharp]": {
         "editor.defaultFormatter": "ms-dotnettools.csharp"
     },
-    "security.workspace.trust.enabled": false    
+    "security.workspace.trust.enabled": false,
+    "code-runner.executorMap": {
+        "csv": "explorer",
+        "javascript": "cscript //Nologo",
+        "php": "\\xampp\\php\\php.exe",
+        "python": "python -u",
+        "powershell": "powershell -NoProfile -ExecutionPolicy Unrestricted -File",
+        "csharp": "dotnet run",
+        "vbscript": "cscript //Nologo",
+        "bat": "cmd /c"
+    }
 }
 ```
 ### Visual Studio 2022 があるなら最新に更新、なければ以下
