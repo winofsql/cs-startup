@@ -39,7 +39,8 @@
         "vbscript": "cscript //Nologo",
         "bat": "cmd /c"
     },
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "code-runner.fileDirectoryAsCwd": true
 }
 ```
 ### Visual Studio 2022 があるなら最新に更新、なければ以下
