@@ -47,6 +47,7 @@
             "vbscript": "cscript //Nologo",
             "bat": "cmd /c"
         },
-        "code-runner.runInTerminal": true
+        "code-runner.runInTerminal": true,
+        "code-runner.fileDirectoryAsCwd": true
     }
 }
