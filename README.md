@@ -25,6 +25,9 @@
     "[csharp]": {
         "editor.defaultFormatter": "ms-dotnettools.csharp"
     },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
     "security.workspace.trust.enabled": false,
     "code-runner.executorMap": {
         "csv": "explorer",
