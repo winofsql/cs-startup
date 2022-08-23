@@ -4,6 +4,7 @@
 ```json
 {
     "-files.encoding": "shiftjis",
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
     "editor.mouseWheelZoom": true,
     "editor.fontSize": 16,
     "editor.renderWhitespace": "all",
