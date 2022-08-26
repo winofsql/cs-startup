@@ -1,49 +1,6 @@
 # cs-startup
 
-### settings.json
-```json
-{
-    "-files.encoding": "shiftjis",
-    "window.title": "${dirty}${activeEditorMedium}${separator}${rootPath}${separator}${rootName}",
-    "editor.mouseWheelZoom": true,
-    "editor.fontSize": 16,
-    "editor.renderWhitespace": "all",
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.profiles.windows": {
-        "Command Prompt": {
-            "path": [
-                "C:\\WINDOWS\\system32\\cmd.exe"
-            ],
-            "args": [],
-            "icon": "terminal-cmd"
-        }
-    },
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "window.zoomLevel": 1,
-    "files.autoSave": "afterDelay",
-    "files.trimTrailingWhitespace": true,
-    "workbench.startupEditor": "none",
-    "[csharp]": {
-        "editor.defaultFormatter": "ms-dotnettools.csharp"
-    },
-    "[jsonc]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "security.workspace.trust.enabled": false,
-    "code-runner.executorMap": {
-        "csv": "explorer",
-        "javascript": "cscript //Nologo",
-        "php": "\\xampp\\php\\php.exe",
-        "python": "python -u",
-        "powershell": "powershell -NoProfile -ExecutionPolicy Unrestricted -File",
-        "csharp": "dotnet run",
-        "vbscript": "cscript //Nologo",
-        "bat": "cmd /c"
-    },
-    "code-runner.runInTerminal": true,
-    "code-runner.fileDirectoryAsCwd": true
-}
-```
+
 ### Visual Studio 2022 があるなら最新に更新、なければ以下
 
 [![image](https://user-images.githubusercontent.com/1501327/184050608-6b5c686f-324c-41cb-bd1d-4cd227003e58.png)](https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0)
